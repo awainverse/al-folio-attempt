@@ -23,4 +23,6 @@ I am a Ph.D. candidate in <a href="https://www.math.ucla.edu/">UCLA's Math depar
 I'm interested in model theory as it relates to combinatorics and other fields.
 I graduated in 2018 with a B.S. in mathematics from <a href="http://pma.divisions.caltech.edu/research-and-academics/mathematics">Caltech</a>.
 
+In mid-2024, I will start a Hans Rademacher Instructorship (postdoc) at UPenn, working with <a href="https://www.sas.upenn.edu/~htowsner/">Henry Towsner</a>.
+
 I also teach at the <a href="https://circles.math.ucla.edu/circles/">Olga Radko Math Circle</a>.
