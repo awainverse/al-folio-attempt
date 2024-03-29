@@ -307,7 +307,7 @@ scholar:
   type_names: {unpublished: preprints, report: reports, article: journal articles, 
         inproceedings: conference articles}
   group_by: type
-  group_order: ascending
+  group_order: ascending, descending
 
   query: "@*"
 
