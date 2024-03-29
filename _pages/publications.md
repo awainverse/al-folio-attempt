@@ -10,12 +10,12 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="preprints">
 
-{% bibliography --file preprints %}
+{% bibliography --query "!@*[journal]" %}
 
 </div>
 
 <div class="publications">
 
-{% bibliography --file publications %}
+{% bibliography --query "@*[journal]" %}
 
 </div>
