@@ -8,14 +8,8 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-<div class="preprints">
+<div class="papers">
 
-{% bibliography --query "!@*[journal]" %}
-
-</div>
-
-<div class="publications">
-
-{% bibliography --query "@*[journal]" %}
+{% bibliography %}
 
 </div>
